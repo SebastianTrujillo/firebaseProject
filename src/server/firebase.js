@@ -4,14 +4,14 @@ import * as firebaseui from 'firebaseui';
 
 
 const firebaseConfig = {
-    apiKey: "AIzaSyBiQhCYpXNg0o6YKgrqca2cKqvZipLRzT0",
-    authDomain: "fir-project-ff7fe.firebaseapp.com",
-    databaseURL: "https://fir-project-ff7fe.firebaseio.com",
-    projectId: "fir-project-ff7fe",
-    storageBucket: "fir-project-ff7fe.appspot.com",
-    messagingSenderId: "780272247149",
-    appId: "1:780272247149:web:da8fe1ee2c09e921917a64",
-    measurementId: "G-8LDXTLXB47"
+    apiKey: "xxx",
+    authDomain: "xxx",
+    databaseURL: "xxx",
+    projectId: "xxx",
+    storageBucket: "xxx",
+    messagingSenderId: "xxx",
+    appId: "xxx",
+    measurementId: "xxx"
 };
 
 class Firebase {
